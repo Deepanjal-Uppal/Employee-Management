@@ -1,4 +1,4 @@
-# Employee Management System – Theoretical Overview
+# Employee Management System
 
 This project is a Spring Boot-based RESTful web application designed to manage employee data. It demonstrates key backend development concepts such as entity modeling, data validation, manual DTO mapping, and centralized exception handling.
 
